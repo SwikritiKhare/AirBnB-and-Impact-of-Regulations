@@ -2,7 +2,7 @@
 
 # Project
 <img src="https://assets.vogue.com/photos/6511ff81b5b60e7f57f8f1a0/master/w_1600,c_limit/casa%20kalika.jpg" width=1200>
- We have over __250,000__ pieces (Airbnb listings) from 10 big cities around the world, plus 5 million little notes (guest reviews). These pieces tell us a lot about how people rent out their homes for short stays.
+ We have over #250,000 pieces (Airbnb listings) from 10 big cities around the world, plus 5 million little notes (guest reviews). These pieces tell us a lot about how people rent out their homes for short stays.
 
 # What the Data Tells Us
 Let's break down Airbnb's journey like a story with a few chapters:
