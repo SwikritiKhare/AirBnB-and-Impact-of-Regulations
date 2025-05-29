@@ -28,6 +28,7 @@ Keep Customers Happy:
 The Problem: If new rules make it harder or less fun to use Airbnb, people might think badly of the brand.
 The Solution: Airbnb should always make sure the experience for guests and hosts stays great, no matter what rules come up. A good experience keeps everyone coming back.
 Smart Growth, Not Just Growth:
+
 Idea 1: Learn from Good Rules. If some rules work well in one city, Airbnb could try to use similar ideas in other places.
 
 Idea 2: Be Picky with Hosts. Airbnb could be stricter about who can list their homes and how they manage them. This ensures quality and builds more trust.
